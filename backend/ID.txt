@@ -1,0 +1,6 @@
+  ID          : 4
+  Email       : vadeckyamaga@gmail.com
+  Nom complet : Yamaga Vadeck
+  Rôle        : admin
+  Mot de passe temporaire : BX8g#8eGvCGxPRQZ
+----------------------------------------

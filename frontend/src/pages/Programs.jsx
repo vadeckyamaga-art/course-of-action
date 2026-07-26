@@ -1,0 +1,10 @@
+// ============================================================
+// Page Programs — TODO : à implémenter
+// ============================================================
+export default function Programs() {
+  return (
+    <div className="container mx-auto px-4 py-8">
+      <h1 className="text-2xl font-bold">Programs</h1>
+    </div>
+  );
+}

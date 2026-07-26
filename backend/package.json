@@ -1,0 +1,24 @@
+{
+  "name": "organisation-backend",
+  "version": "1.0.0",
+  "description": "API backend pour le site de l'organisation",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "create-admin": "node src/utils/createFirstAdmin.js"
+  },
+  "dependencies": {
+    "pg": "^8.13.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "cors": "^2.8.5",
+    "bcrypt": "^5.1.1",
+    "jsonwebtoken": "^9.0.2",
+    "express-rate-limit": "^7.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
